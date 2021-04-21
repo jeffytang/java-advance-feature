@@ -1,0 +1,20 @@
+Collection:
+    1. List
+        1. 允许有重复的元素
+        2. 元素是有顺序的，顺序元素添加的顺序
+        3. 可以使用下标(index)来进行访问
+        4. 实现：
+            1. ArrayList ：用数组实现的列表，适用于随机访问的场景
+            2. LinkedList ： 用链表来实现的列表，适用于随机增加或者随机删除的场景
+    2. Set
+        1. 不允许有重复的元素
+        2. 元素是没有顺序的
+        3. 不能使用下标来访问元素
+        4. HashSet ：使用 HashMap 的 key 来实现的，
+            新增(add)、删除(remove)以及判断是否存在某个元素(contains)的操作性能很好
+
+Map(键值对):
+    1. 存储 key-value 类型的数据
+    2. 常用的实现是： HashMap
+    3. HashMap 是由 数组 + 链表 + 红黑树 实现
+    4. HashMap 对 key 的操作(put，get，containsKey 等)是非常高效的

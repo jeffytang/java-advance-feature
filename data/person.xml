@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+    <person>
+        <name>Fred</name>
+        <birthday>
+            <year>1980</year>
+            <month>6</month>
+            <day>20</day>
+        </birthday>
+        <gender>MALE</gender>
+        <email>fred@example.com</email>
+    </person>
+    <person>
+        <name>Jane</name>
+        <birthday>
+            <year>1990</year>
+            <month>7</month>
+            <day>15</day>
+        </birthday>
+        <gender>FEMALE</gender>
+        <email>jane@example.com</email>
+    </person>
+    <person>
+        <name>George</name>
+        <birthday>
+            <year>1991</year>
+            <month>8</month>
+            <day>13</day>
+        </birthday>
+        <gender>MALE</gender>
+        <email>george@example.com</email>
+    </person>
+</persons>

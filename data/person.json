@@ -1,0 +1,5 @@
+[
+  {"name":"Fred", "year":1980, "month":6, "day":20, "gender":"MALE", "email":"fred@example.com"},
+  {"name":"Jane", "year":1990, "month":7, "day":15, "gender":"FEMALE", "email":"jane@example.com"},
+  {"name":"George", "year":1991, "month":8, "day":13, "gender":"MALE", "email":"george@example.com"}
+]
